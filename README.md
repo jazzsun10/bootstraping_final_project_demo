@@ -1,1 +1,1 @@
-# bootstraping Final project demo
+# Bootstrapping Interview Guide
