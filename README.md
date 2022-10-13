@@ -59,3 +59,8 @@ Here is the Hypothesis:
 
 Where we should put the first gate? Level 30 vs. Level 40
 
+After python simulation, we get the result below.
+
+
+![Day 7 Retention bootstrap distribution by different version](https://github.com/jazzsun10/bootstraping_final_project_demo/blob/main/Day%207%20Retention%20bootstrap%20distribution%20by%20different%20version.png)
+
