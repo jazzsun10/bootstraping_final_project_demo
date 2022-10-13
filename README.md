@@ -25,7 +25,7 @@ Pros
 
 1.Resolve resource limitation
 
-2. Work with any population distribution
+2.Work with any population distribution
 
 Cons
 
