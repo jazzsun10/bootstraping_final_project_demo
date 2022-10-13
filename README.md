@@ -61,6 +61,17 @@ Where we should put the first gate? Level 30 vs. Level 40
 
 After python simulation, we get the result below.
 
+First one is our Day 7 Retention bootstrap distribution by different version, you could see gate 30 day7 retention rate is higher than gate 40.
+
+However, we don't know how much confidence we have to this conclusion.
+
 
 ![Day 7 Retention bootstrap distribution by different version](https://github.com/jazzsun10/bootstraping_final_project_demo/blob/main/Day%207%20Retention%20bootstrap%20distribution%20by%20different%20version.png)
+
+
+As a result, we calculate the probability, it show us there is a 99.9% probability that 7-day retention is greater 
+when the gate is at level 30.
+
+![Day7 Rention rate difference between Gate 40 and Gate 30](https://github.com/jazzsun10/bootstraping_final_project_demo/blob/main/Day7%20Rention%20rate%20difference%20between%20Gate%2040%20and%20Gate%2030.png)
+
 
