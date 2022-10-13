@@ -9,3 +9,6 @@ This guide also assumes a basic familiarity of bootstrapping, for a detailed exp
 
 ### **Interview Questions you must know** <br>
 
+**Q1:Could you briefly introduce bootstrapping concept in 1 minute?**
+
+Ans: Bootstrapping is a resampling method with replacement which helps us to estimate the population, it could help us estimate the mean and standard deviation. Firstly, you can imagine if we have only one sample. We could apply resampling with replacement on this sample to build up the bootstrap sampling distribution. Then we could get the descriptive statistics from this distribution.
