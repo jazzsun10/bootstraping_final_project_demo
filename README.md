@@ -20,6 +20,7 @@ Bootstrapped distribution came from original sample, while sampling distribution
 Bootstrapped distribution approximate sampling distribution as n gets larger, it dependeds on bootstrap sample we get.
 
 **Q3:What are pros and cons of bootstrapping?**
+
 Pros
 1.Resolve resource limitation
 2. Work with any population distribution
@@ -39,7 +40,7 @@ Parametric bootstrapping — resampling from all of the points (X):
 4.Plot a histogram of the parameters
 5.Make inferences about true parameters
 
-**Q5:Tell me why and how to apply bootstrapping on AB Testing??**
+**Q5:Tell me why and how to apply bootstrapping on AB Testing?**
 
 You can imagine you are data scientist in a gaming company, and you were assigned a AB Testing task.
 Here is the Hypothesis: Where we should put the first gate? Level 30 vs. Level 40
