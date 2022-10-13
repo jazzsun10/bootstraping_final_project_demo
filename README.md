@@ -22,26 +22,40 @@ Bootstrapped distribution approximate sampling distribution as n gets larger, it
 **Q3:What are pros and cons of bootstrapping?**
 
 Pros
+
 1.Resolve resource limitation
+
 2. Work with any population distribution
 
 Cons
+
 1.Excessive computing power
+
 2.Rely on sample quality
 
 **Q4:Tell me about how bootstrapping can be applied in linear regression models?**
 
-Bootstrapping is a nonparametric approach to statistical inference that gives us standard errors and confidence intervals for our parameters
+Bootstrapping is a nonparametric approach to statistical inference that gives us standard errors and confidence intervals for our parameters.
+
 Bootstrap can be applied to regression models to give insights into variability of our parameters (beta) with minimal assumption about parent distribution
+
 Parametric bootstrapping — resampling from all of the points (X):
+
 1.Sample the data with replacement numerous times (100)
+
 2.Fit a linear regression to each sample
+
 3.Store the coefficients (intercept and slopes)
+
 4.Plot a histogram of the parameters
+
 5.Make inferences about true parameters
 
 **Q5:Tell me why and how to apply bootstrapping on AB Testing?**
 
 You can imagine you are data scientist in a gaming company, and you were assigned a AB Testing task.
-Here is the Hypothesis: Where we should put the first gate? Level 30 vs. Level 40
+
+Here is the Hypothesis: 
+
+Where we should put the first gate? Level 30 vs. Level 40
 
